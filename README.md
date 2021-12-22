@@ -3,7 +3,10 @@
 (PARA LEER ESTE ARCHIVO DE MANERA MÁS AMENA DEBERÍA TOCAR LA SIGUIENTE COMBINACIÓN DE TECLAS)
 
 ```shell
+clonar este repo a su computador
+
 ctrl + shift + v
+
 ```
 
 ## GENERACIÓN DE SSH EN GITHUB:
