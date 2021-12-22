@@ -3,7 +3,7 @@
 (PARA LEER ESTE ARCHIVO DE MANERA MÁS AMENA DEBERÍA TOCAR LA SIGUIENTE COMBINACIÓN DE TECLAS)
 
 ```shell
-clonar este repo a su computador
+clonar este repo a su computador y luego dentro del readme tocar el siguiente comando
 
 ctrl + shift + v
 
