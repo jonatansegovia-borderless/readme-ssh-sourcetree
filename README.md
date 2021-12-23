@@ -123,3 +123,23 @@ ctrl + shift + v
 - 6.4 - Le damos a 'Clone' y clonará el mismo. Ya deberíamos ver el proyecto sin problemas.
 
   ![](./img/34.png)
+
+## Dentro del proyecto
+
+7 - De vuelta en VScode, podremos ver los archivos de nuestro proyecto. Los submódulos estarán pintados de color azul.
+
+![](./img/40.png)
+
+- 7.1 - ST permite ver estos módulos en una carpeta separada dentro de sus opciones. Si clicamos en este lugar, podremos ver todos los submódulos pertenecienets al proyecto.
+
+  ![](./img/41.png)
+
+  ![](./img/42.png)
+
+- 7.2 - Cuando realizamos cambios en este y los salvamos, podremos ver una nueva marca dentro del submódulo afectado por los cambios en ST. Clicamos en el submódulo que hicimos cambios y se abrirá un nuevo tab.
+
+  ![](./img/43.png)
+
+- 7.3 - En este nuevo tab, veremos los cambios que realizamos, agregar estos cambios, hacer los respectivos commits y pushear estos cambios al proyecto.
+
+  ![](./img/44.png)
